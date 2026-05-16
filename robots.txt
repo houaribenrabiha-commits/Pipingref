@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://houari-benrebiha.github.io/pipingref/sitemap.xml
